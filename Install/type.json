@@ -1,6 +1,6 @@
 {
 	"app_type" : "blog",
-	"dashboards" : "0",
+	"dashboards" : "1",
 	"name" : "Blog",
 	"description" : "",
 	"version" : "0.0.0",
